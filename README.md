@@ -6,7 +6,6 @@ _What you see is what you get_
 ### Installation
 _Requires pipx_
 ```bash
-cd executable
 pipx install .
 ```
 
