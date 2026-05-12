@@ -1,0 +1,6 @@
+[project]
+name = "picdl"
+dependencies = ["typer", "requests", "typing_extensions"]
+dynamic = ["version"]
+[project.scripts]
+picdown = "files.cli:app"
